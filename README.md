@@ -1,16 +1,16 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto em fase de criação.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Projeto em fase de criação.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Projeto em fase de criação.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Projeto em fase de criação.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Projeto em fase de criação.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Projeto em fase de criação.
